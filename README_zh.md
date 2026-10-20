@@ -1,6 +1,7 @@
 # VISTA 代码说明
 
-本目录是论文 [Learn to Think: Improving Multimodal Reasoning through Vision-Aware Self-Improvement Training](https://arxiv.org/abs/2605.11931) 的独立代码整理版。
+本目录是论文 [Learn to Think: Improving Multimodal Reasoning through Vision-Aware Self-Improvement Training](https://arxiv.org/abs/2605.11931) （ICML 2026）的独立代码整理版。
+论文链接：[ICML 2026](https://icml.cc/virtual/2026/poster/66575) · [OpenReview](https://openreview.net/forum?id=2UJrwCrqbw) · [arXiv](https://arxiv.org/abs/2605.11931)。
 完整安装、训练与评测命令见 [英文 README](README.md)。
 
 - `run.py`：可配置路径、GPU 数量和训练模式的入口；加 `--dry-run` 只预览命令。

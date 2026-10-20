@@ -1,6 +1,6 @@
 # Experiment configuration and validation
 
-Paper: arXiv:2605.11931v1. The repository provides sampling, prefix localization,
+Paper: ICML 2026 (arXiv:2605.11931v1). The repository provides sampling, prefix localization,
 VAS scoring, SFT/DPO preparation and evaluation. Basic text annotations are
 bundled in dataset/; images and checkpoints are supplied separately.
 
