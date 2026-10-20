@@ -1,0 +1,220 @@
+{
+  "prepared_date": "2026-10-20",
+  "source": "Author-provided project data",
+  "images_included": false,
+  "files": [
+    {
+      "file": "chartqa/chartqa_test.jsonl",
+      "records": 1026,
+      "fields": [
+        "answer",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "fbb82a471960a035b8bced3876f2497b28f81c16380fdc087b19247f8d8f77cf",
+      "sha256": "8e3eb01390c6b0db7c790e98c231f67624cbb23405953947a0bc7cc02b56a641",
+      "bytes": 637054,
+      "preparation": [
+        "add_task_from_filename"
+      ]
+    },
+    {
+      "file": "chartqa/chartqa_train.jsonl",
+      "records": 3233,
+      "fields": [
+        "answer",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "567ab8a599a710cb4249618e6697730adff53c037e3dc002c890aad840b70f91",
+      "sha256": "04b75cd149095007db85c694955aaa79fecf5bfec2038c3f7ebb99c0480acf03",
+      "bytes": 1985093,
+      "preparation": [
+        "add_task_from_filename"
+      ]
+    },
+    {
+      "file": "geometry3k/geometry3k_test.jsonl",
+      "records": 601,
+      "fields": [
+        "answer",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "9ec7c390ef2c282fe461f95669d6b9e71990b8d943a44193533a2d615c666722",
+      "sha256": "ac3a5592c80bb17ca5bd3c92468ad90e6a87d29aef034ff9cd44cbd325be3058",
+      "bytes": 365338,
+      "preparation": [
+        "add_task_from_filename"
+      ]
+    },
+    {
+      "file": "geometry3k/geometry3k_train.jsonl",
+      "records": 2101,
+      "fields": [
+        "answer",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "d2f316ece0ede33d61e42f8c98034dcc106625fefab8fe0d63677a0e197f4037",
+      "sha256": "94d631fa0bddd8dadd5111fd0b2d9722fe79bbb80e107c9537d7f53dc0b9432b",
+      "bytes": 1263069,
+      "preparation": [
+        "add_task_from_filename"
+      ]
+    },
+    {
+      "file": "ood_test_set/illusionBench_test.jsonl",
+      "records": 5139,
+      "fields": [
+        "answer",
+        "category",
+        "difficulty_level",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "859ac8d777caefb4d419e3b703efb122efcda959a247eede9445fc9a0a6c2c5c",
+      "sha256": "01a90142e5fdf2fd80fabaaacefd52812edab71242c630800031ec606b5b3b62",
+      "bytes": 3940617,
+      "preparation": [
+        "add_task_from_filename"
+      ]
+    },
+    {
+      "file": "ood_test_set/mathvista_test.jsonl",
+      "records": 1000,
+      "fields": [
+        "answer",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "d230cce89536a69aaf55081d7f2377c8c93a3772373828185c1a07069adf4738",
+      "sha256": "03d5bf887d092901cc17ea9ac2d183b7d1ed789b24def52f83a624c4bc5c3d2c",
+      "bytes": 674975,
+      "preparation": [
+        "add_task_from_filename"
+      ]
+    },
+    {
+      "file": "ood_test_set/path_vqa_test.jsonl",
+      "records": 3362,
+      "fields": [
+        "answer",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "bec5dc1330651cdbf742a5bcabc072837af6b374d6f1f0ecc960f5d84ac18679",
+      "sha256": "bec5dc1330651cdbf742a5bcabc072837af6b374d6f1f0ecc960f5d84ac18679",
+      "bytes": 2143896,
+      "preparation": []
+    },
+    {
+      "file": "scienceqa/scienceqa_test.jsonl",
+      "records": 813,
+      "fields": [
+        "answer",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "6d88837ebb5e4652671ab0e00249a54c724f4d590fcd4700d06d01cbbb98504d",
+      "sha256": "c3d0beb9329c81b4767cf4f609a7ba5fe0d53b191951960f5152040895b7265f",
+      "bytes": 607085,
+      "preparation": [
+        "add_task_from_filename"
+      ]
+    },
+    {
+      "file": "scienceqa/scienceqa_train.jsonl",
+      "records": 2635,
+      "fields": [
+        "answer",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "bb38c5b38eabf0391e20d5d69d8249921bfb19756d798fa00f80c7aefd9bc6bc",
+      "sha256": "5e4ba1a304a47d5a2feab37f5e362f7b60ff672f3ad14685b8261d08dae88515",
+      "bytes": 1944839,
+      "preparation": [
+        "add_task_from_filename"
+      ]
+    },
+    {
+      "file": "slake/slake_test.jsonl",
+      "records": 355,
+      "fields": [
+        "answer",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "ec8765ab844d825653c997c69b25beecd495c5b2a9375979f82b51e60a4380fa",
+      "sha256": "ec8765ab844d825653c997c69b25beecd495c5b2a9375979f82b51e60a4380fa",
+      "bytes": 221811,
+      "preparation": []
+    },
+    {
+      "file": "slake/slake_train.jsonl",
+      "records": 1681,
+      "fields": [
+        "answer",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "0db41b8189e3828e8b69d8e3d2819d75e3d32580ac430c8a2c4d2ee077792a1a",
+      "sha256": "0db41b8189e3828e8b69d8e3d2819d75e3d32580ac430c8a2c4d2ee077792a1a",
+      "bytes": 1048587,
+      "preparation": []
+    },
+    {
+      "file": "vqa_rad/vqa_rad_test.jsonl",
+      "records": 251,
+      "fields": [
+        "answer",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "92fd43f3d973f0d67765cf228a9a5f37434b986832c08c995fa1539bd7c3be99",
+      "sha256": "92fd43f3d973f0d67765cf228a9a5f37434b986832c08c995fa1539bd7c3be99",
+      "bytes": 155662,
+      "preparation": []
+    },
+    {
+      "file": "vqa_rad/vqa_rad_train.jsonl",
+      "records": 940,
+      "fields": [
+        "answer",
+        "images",
+        "problem",
+        "system",
+        "task"
+      ],
+      "source_sha256": "7d8f258f85bf2e2bcfba0d9f756489f9116454b8cab0cf2977d2da661bfb7c98",
+      "sha256": "7d8f258f85bf2e2bcfba0d9f756489f9116454b8cab0cf2977d2da661bfb7c98",
+      "bytes": 579065,
+      "preparation": []
+    }
+  ]
+}

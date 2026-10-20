@@ -1,0 +1,16 @@
+# Generation/scoring environment, not the LLaMA-Factory or H-GRPO environment.
+# Compatibility ranges, not an experimentally verified lock file.
+-r requirements-cpu.txt
+torch>=2.5
+transformers>=4.49,<5
+datasets>=2.16,<4
+accelerate>=1.3
+vllm>=0.8,<0.11
+math-verify
+latex2sympy2-extended
+click>=8
+pandas>=2
+pillow>=10
+python-dotenv
+mathruler
+qwen-vl-utils
