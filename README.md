@@ -6,7 +6,7 @@
 
 Qihuang Zhong, Liang Ding, Wenjie Xuan, Juhua Liu, Bo Du, and Dacheng Tao.
 
-[ICML 2026](https://icml.cc/virtual/2026/poster/66575) · [OpenReview](https://openreview.net/forum?id=2UJrwCrqbw) ·
+[ICML 2026](https://icml.cc/virtual/2026/poster/66575) · 
 [arXiv](https://arxiv.org/abs/2605.11931) · [Data format](docs/DATA.md) ·
 [Reproducibility notes](docs/REPRODUCIBILITY.md) · [中文说明](README_zh.md)
 
